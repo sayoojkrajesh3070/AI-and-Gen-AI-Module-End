@@ -24,6 +24,4 @@ The tool has been evaluated against multiple test cases to ensure it meets acade
 | **ROUGE-L (Originality)** | 0.4 - 0.7 | **0.62** |
 | **Grammar Pass Rate** | 100% | **98%+** |
 
-### Visualization
-The chart below shows the "Sweet Spot" achieved by the tool: High semantic similarity (Accuracy) with controlled overlap (Originality).
 
