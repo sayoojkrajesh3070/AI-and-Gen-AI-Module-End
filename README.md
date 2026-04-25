@@ -24,4 +24,17 @@ The tool has been evaluated against multiple test cases to ensure it meets acade
 | **ROUGE-L (Originality)** | 0.4 - 0.7 | **0.62** |
 | **Grammar Pass Rate** | 100% | **98%+** |
 
+### Visualization
+The chart below shows the "Sweet Spot" achieved by the tool: High semantic similarity (Accuracy) with controlled overlap (Originality).
+
+![Performance Metrics](image_4da43a.png)
+
+## 📋 Installation & Usage
+
+### Setup
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/your-username/ai-paraphraser.git](https://github.com/your-username/ai-paraphraser.git)
+   cd ai-paraphraser
+
 
