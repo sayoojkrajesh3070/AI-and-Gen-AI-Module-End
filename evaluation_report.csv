@@ -1,0 +1,4 @@
+Test Case,Input Text,Output Text,Semantic Similarity,ROUGE-L (Originality)
+Case 1: Idiom,The quick brown fox jumps over the lazy dog.,The quick brown fox jumps over the lazy dog.,1.0,1.0
+Case 2: Complex,Artificial intelligence is transforming the modern workplace at a rapid pace.,"At a rapid rate, artificial intelligence is transforming the modern workplace.",0.97,0.64
+Case 3: Sentence,I need to finish my assignment before the deadline tomorrow.,My assignment needs to be finished before the tomorrow deadline.,0.94,0.6
